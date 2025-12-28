@@ -20,3 +20,4 @@ pip install psycopg2-binary
 
 👨‍💻 Автор Mr_robot - учебный проект по PostgreSQL и Python
 
+   ///////
